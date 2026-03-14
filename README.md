@@ -54,3 +54,21 @@ Model performance was evaluated using:
 - Jupyter Notebook
 
 ## Project Structure
+
+data/ → dataset
+notebooks/ → exploratory analysis
+src/ → Python scripts for preprocessing and model training
+results/ → model evaluation results
+
+## Future Improvements
+
+Possible improvements include:
+
+- Implementing deep learning models
+- Using cross-validation techniques
+- Deploying the model as an API
+
+## Author
+
+Cyrian Luca  
+Engineering student in Artificial Intelligence at ESME Sudria
